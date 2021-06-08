@@ -4,18 +4,36 @@ namespace ProjetoProduto09_06.Classes
 {
     public class Usuario
     {
-        private int Codigo;
-        private string Nome;
-        private string Email;
-        private string Senha;
-        private DateTime DataCadastro;
+        protected int Codigo;
+        protected string Nome;
+        public string Email;
+        public string Senha;
+        protected DateTime DataCadastro;
 
         public string Cadastrar(Usuario usuario){
-            return "bla";
+
+            Console.Write("Digite o código do usuário que você deseja cadastrar:  ");
+            Codigo = int.Parse(Console.ReadLine());
+
+            Console.Write("Digite o nome do usuário que você deseja cadastrar:  ");
+            Nome = Console.ReadLine();
+
+            Console.Write("Digite o email do usuário que você deseja cadastrar:  ");
+            Email = Console.ReadLine();
+
+            Console.Write("Digite a senha do usuário que você deseja cadastrar:  ");
+            Senha = Console.ReadLine();
+
+            Console.WriteLine($"\nCódigo:  {usuario.Codigo}");
+            Console.WriteLine($"Nome:  {usuario.Nome}");
+            Console.WriteLine($"Email:  {usuario.Email}");
+            Console.WriteLine($"Senha:  {usuario.Senha}");
+
+            return $"\nUsuário {usuario.Nome} cadastrado\n";
         }
 
         public string Deletar(Usuario usuario){
-            return "bla";
+            return $"Usuário {usuario} deletado";
         }
 
     }

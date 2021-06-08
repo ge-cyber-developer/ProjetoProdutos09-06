@@ -1,4 +1,5 @@
 ﻿using System;
+using ProjetoProduto09_06.Classes;
 
 namespace ProjetoProduto09_06
 {
@@ -6,7 +7,7 @@ namespace ProjetoProduto09_06
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           Login l1 = new Login ();
         }
     }
 }
