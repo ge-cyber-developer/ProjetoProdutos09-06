@@ -1,0 +1,16 @@
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\ATIVIDADE - Produto\bin\Debug\net5.0\ATIVIDADE - Produto.exe
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\ATIVIDADE - Produto\bin\Debug\net5.0\ATIVIDADE - Produto.deps.json
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\ATIVIDADE - Produto\bin\Debug\net5.0\ATIVIDADE - Produto.runtimeconfig.json
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\ATIVIDADE - Produto\bin\Debug\net5.0\ATIVIDADE - Produto.runtimeconfig.dev.json
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\ATIVIDADE - Produto\bin\Debug\net5.0\ATIVIDADE - Produto.dll
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\ATIVIDADE - Produto\bin\Debug\net5.0\ref\ATIVIDADE - Produto.dll
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\ATIVIDADE - Produto\bin\Debug\net5.0\ATIVIDADE - Produto.pdb
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\ATIVIDADE - Produto\obj\Debug\net5.0\ATIVIDADE - Produto.csprojAssemblyReference.cache
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\ATIVIDADE - Produto\obj\Debug\net5.0\ATIVIDADE - Produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\ATIVIDADE - Produto\obj\Debug\net5.0\ATIVIDADE - Produto.AssemblyInfoInputs.cache
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\ATIVIDADE - Produto\obj\Debug\net5.0\ATIVIDADE - Produto.AssemblyInfo.cs
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\ATIVIDADE - Produto\obj\Debug\net5.0\ATIVIDADE - Produto.csproj.CoreCompileInputs.cache
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\ATIVIDADE - Produto\obj\Debug\net5.0\ATIVIDADE - Produto.dll
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\ATIVIDADE - Produto\obj\Debug\net5.0\ref\ATIVIDADE - Produto.dll
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\ATIVIDADE - Produto\obj\Debug\net5.0\ATIVIDADE - Produto.pdb
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\ATIVIDADE - Produto\obj\Debug\net5.0\ATIVIDADE - Produto.genruntimeconfig.cache
